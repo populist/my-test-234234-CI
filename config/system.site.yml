@@ -1,0 +1,14 @@
+uuid: 2e5c5b85-3de4-48e4-8fd4-3a5c798953df
+name: my-test-234234-ci
+mail: matt@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
